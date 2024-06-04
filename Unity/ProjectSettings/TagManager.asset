@@ -3,17 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ActivatorCollider
+  - Cristaux
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Cube
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Player
+  - bouton
+  - CCollider
   - 
   - 
   - 
